@@ -23,7 +23,7 @@
   </p>
 </div>
 
-# Deprecated! Vulnerability got fixed. There are now issues with the generation for the Follina Payload, file got deleted due some issues.
+# Proof of Concept of the original SekiganWare Malware, source code not avaliable anymore...
 
 <!-- TABLE OF CONTENTS -->
   <h2> Table of Contents </h2>
